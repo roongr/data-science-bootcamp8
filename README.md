@@ -5,7 +5,7 @@ My data portfolio for data analyst role
 
 I learn a lot of stuff related to data science skills. This bootcamp
 
-I have recorded notes on what I learned from this bootcamp here
+I have recorded notes on what I learned from this bootcamp here 👇🏻👇🏻
 
 https://attractive-clam-9e7.notion.site/Data-Science-Bootcamp-cf79b12bd5224235bb19ab6261aa7df6?pvs=4
 
